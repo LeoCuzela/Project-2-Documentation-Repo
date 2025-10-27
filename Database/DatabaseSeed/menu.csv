@@ -1,0 +1,44 @@
+MenuID,Name,Category,Price,Image,Description,SeasonalStart,SeasonalEnd
+0,Classic Pearl Milk Tea,Milky Series,5.8,0,Rich and creamy milk tea infused with distinct flavors of black tea and pearl topping,1/1/2025 0:00,12/31/2025 23:59
+1,Honey Pearl Milk Tea,Milky Series,6,1,Light and refreshing milk tea made with delicious honey and pearl topping,1/1/2025 0:00,12/31/2025 23:59
+2,Coffee Creama,Milky Series,6.5,2,A blend of cream and coffee for a balanced coffee,1/1/2025 0:00,12/31/2025 23:59
+3,Coffee Milk Tea w/ Coffee Jelly,Milky Series,6.25,3,A blend of black tea and coffee for a balanced coffee with topped coffee jelly,1/1/2025 0:00,12/31/2025 23:59
+4,Hokkaido Pearl Milk Tea,Milky Series,6.25,4,"A milky, toffee-like flavored milk tea that offers indulgence, with an added pearl topping for flavor and chewiness",1/1/2025 0:00,12/31/2025 23:59
+5,Thai Pearl Milk Tea,Milky Series,6.25,5,Rich and creamy milk tea infused with distinct flavors of Thai tea and pearl topping,1/1/2025 0:00,12/31/2025 23:59
+6,Taro Pearl Milk Tea,Milky Series,6.25,6,"Taro flavor milk tea, infused with earthy notes, and enhanced by chewy pearl topping",1/1/2025 0:00,12/31/2025 23:59
+7,Mango Green Milk Tea,Milky Series,6.5,7,Green tea and creamer base with added fruity mango jam for a vibrant yellow color,1/1/2025 0:00,12/31/2025 23:59
+8,Golden Retriever,Milky Series,6.75,8,"Black milk tea with a playful mix of chewy pearls, silky pudding, fragrant coffee and lychee Jelly",1/1/2025 0:00,12/31/2025 23:59
+9,Coconut Pearl Milk,Milky Series,6.75,9,"Coconut flavor milk tea, infused with earthy notes, and enhanced by chewy pearl topping",1/1/2025 0:00,12/31/2025 23:59
+10,Classic Tea,Fresh Brew,4.65,10,Classic brewed tea made fresh daily with high quality tea leaves,1/1/2025 0:00,12/31/2025 23:59
+11,Honey Tea,Fresh Brew,4.85,11,"Freshly brewed tea with a touch of mild, sweet honey added ",1/1/2025 0:00,12/31/2025 23:59
+12,Mango Green Tea,Fruity Beverage,5.8,12,"Green tea base with mango jam, creating a flavorful and sweet fruit tea",1/1/2025 0:00,12/31/2025 23:59
+13,Passion Chess,Fruity Beverage,6.25,13,"Mix of berry juice and lychee juice, layered with bursting boba",1/1/2025 0:00,12/31/2025 23:59
+14,Berry Lychee Burst,Fruity Beverage,6.25,14,Green tea meets lychee jelly and pearls in tangy-sweet refresher,1/1/2025 0:00,12/31/2025 23:59
+15,Peach Tea w/ Honey Jelly,Fruity Beverage,6.25,15,"Tea with fruity and pleasant peach jam added, topped with mellow honey jelly",1/1/2025 0:00,12/31/2025 23:59
+16,Mango & Passion Fruit Tea,Fruity Beverage,6.25,16,Green tea with passion fruit and mango jams for a nice sweet and sour taste,1/1/2025 0:00,12/31/2025 23:59
+17,Honey Lemonade,Fruity Beverage,5.2,17,Non-caffeinated lemonade with sweet honey,1/1/2025 0:00,12/31/2025 23:59
+18,Tiger Boba,Non-Caffeinated,6.5,18,Buttery caramel notes swirled with fresh milk and chewy pearls,1/1/2025 0:00,12/31/2025 23:59
+19,Strawberry Coconut,Non-Caffeinated,6.5,19,"Juicy strawberry purée meets velvety coconut milk for a fruity, creamy sip with a hint of island vibes.",1/1/2025 0:00,12/31/2025 23:59
+20,Strawberry Coconut Ice Blended,Non-Caffeinated,6.5,20,"A refreshing blend of fresh strawberry and creamy coconut, bursting with vibrant colors and tropical flavors to deliver a “wow” with every sip",1/1/2025 0:00,12/31/2025 23:59
+21,Halo Halo,Non-Caffeinated,6.95,21,"Taro milk with egg pudding, tapioca pearls, and lychee de coco",1/1/2025 0:00,12/31/2025 23:59
+22,Halo Halo Ice Blended,Non-Caffeinated,6.95,22,"A blend of crushed ice and taro loaded with egg pudding, tapioca pearls, and lychee de coco",1/1/2025 0:00,12/31/2025 23:59
+23,Wintermelon Lemonade,Non-Caffeinated,5.8,23,"Winter melon Lemonade, blended into a slushy, crave-worthy treat",1/1/2025 0:00,12/31/2025 23:59
+24,Wintermelon Lemonade Ice Blended,Non-Caffeinated,6.5,24,"A blend of crushed ice, Winter melon Lemonade, blended into a slushy, crave-worthy treat",1/1/2025 0:00,12/31/2025 23:59
+25,Wintermelon w/ Fresh Milk,Non-Caffeinated,5.2,25,A non-caffeinated winter melon flavor drink topped with cheese foam cream,1/1/2025 0:00,12/31/2025 23:59
+26,Matcha Pearl Milk Tea,New Matcha Series,6.5,26,Premium matcha green tea whisked with creamy milk and chewy tapioca pearls,1/1/2025 0:00,12/31/2025 23:59
+27,Matcha Fresh Milk,New Matcha Series,6.25,27,A smooth drink made from the earthy notes of matcha powder and fresh milk,1/1/2025 0:00,12/31/2025 23:59
+28,Strawberry Matcha Fresh Milk,New Matcha Series,6.5,28,"Layers of fresh strawberry purée, matcha green tea, and milk create a sweet-meets-earthy harmony.",1/1/2025 0:00,12/31/2025 23:59
+29,Mango Matcha Fresh Milk,New Matcha Series,6.5,29,"Sunny mango purée swirls with our creamy matcha milk for a fruity, grassy duo.",1/1/2025 0:00,12/31/2025 23:59
+30,Matcha Ice Blended,New Matcha Series,6.5,30,"Features a mix of premium matcha and creama swirled together to deliver a smooth, rich taste in every sip",1/1/2025 0:00,12/31/2025 23:59
+31,Oreo w/ Pearl,Ice-Blended,6.75,31,Creamy and delicious cookie and cream ice blended with bits of chocolate cookie crunches in the drink,1/1/2025 0:00,12/31/2025 23:59
+32,Taro w/ Pudding,Ice-Blended,6.75,32,"Vibrant and beautiful taro ice blended, topped with silky pudding for taro lovers",1/1/2025 0:00,12/31/2025 23:59
+33,Thai Tea w/ Pearl,Ice-Blended,6.75,33,Rich and flavorful Thai tea ice blended for a cold and creamy satisfaction,1/1/2025 0:00,12/31/2025 23:59
+34,Coffee w/ Ice Cream,Ice-Blended,6.75,34,"Sweet and mildly bitter coffee ice blended, topped with ice cream, making it perfect for coffee lovers",1/1/2025 0:00,12/31/2025 23:59
+35,Mango w/ Ice Cream,Ice-Blended,6.75,35,"Vibrant in yellow, offering a delightful fusion of refreshing mango taste from the drink and creaminess of ice cream",1/1/2025 0:00,12/31/2025 23:59
+36,Strawberry w/ Lychee Jelly & Ice Cream,Ice-Blended,6.75,36,"Tart and sweet strawberry ice blended, featuring a pleasing pink color from jam, topped with ice cream and lychee jelly",1/1/2025 0:00,12/31/2025 23:59
+37,Peach Tea w/ Lychee Jelly,Ice-Blended,6.95,37,Fruity ice blended peach tea with sweet and chewy lychee jelly topping,1/1/2025 0:00,12/31/2025 23:59
+38,Lava Flow,Ice-Blended,6.95,38,"Layers mango with a vibrant spicy peach purée (featuring strawberry jam, peach jam, and Tajin) creating a mesmerizing ""lava"" effect",1/1/2025 0:00,12/31/2025 23:59
+39,Pumpkin Spice Milk Tea,Milky Series,6.25,39,"Rich black tea blended with pumpkin purée, warm cinnamon, and nutmeg, topped with creamy milk and chewy pearls for a cozy fall flavor",10/1/2025 0:00,12/31/2025 23:59
+40,Cranberry Lychee Refresher,Fruity Beverage,6.25,40,"A refreshing blend of tart cranberry and sweet lychee juices over a green tea base, layered with bursting boba for a festive red-and-pink look",1/1/2025 0:00,3/31/2025 23:59
+41,Matcha Peppermint Creama,New Matcha Series,6.75,41,Earthy premium matcha swirled with cool peppermint milk and topped with a light creama foam for a minty holiday twist,4/1/2025 0:00,6/30/2025 23:59
+42,Strawberry Shortcake Ice Blended,Ice-Blended,6.95,42,A creamy strawberry and vanilla ice blend topped with whipped cream and cookie crumbles for a dessert-inspired spring treat,7/1/2025 0:00,9/30/2025 23:59

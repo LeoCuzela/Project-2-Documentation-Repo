@@ -1,0 +1,23 @@
+
+# # macOS junk
+# .DS_Store
+
+# # Compiled Java files
+# *.class
+
+# # Database files
+# *.db
+
+# # Native libraries
+# *.dylib
+
+# # Build/output folders
+# /bin/
+# /lib/
+# /target/
+# /out/
+
+# # IDE folders
+# .vscode/
+# .idea/
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+
+<VBox fx:controller="app.ManagerController"
+      xmlns="http://javafx.com/javafx/25"
+      xmlns:fx="http://javafx.com/fxml/1"
+      prefWidth="900.0" prefHeight="600.0" fillWidth="true" >
+
+   <children>
+      <SplitPane dividerPositions="0.10" prefHeight="600.0" prefWidth="900.0" VBox.vgrow="ALWAYS">
+         <items>
+            <!-- LEFT SIDEBAR -->
+            <AnchorPane prefWidth="180.0" minWidth="150.0" prefHeight="600.0" style="-fx-background-color: #a6b1b7;">
+               <children>
+                  <VBox layoutX="20.0" layoutY="20.0" spacing="35" alignment="CENTER">
+                     <Label text="Manager Options">
+                        <font>
+                           <Font name="Futura Bold" size="25.0" />
+                        </font>
+                     </Label>
+
+                     <Button fx:id="btnInventory" text="Inventory" onAction="#handleInventoryButton" prefWidth="180" prefHeight="40"/>
+                     <Button fx:id="btnOrders" text="Orders" onAction="#handleOrdersButton" prefWidth="180" prefHeight="40"/>
+                     <Button fx:id="btnEmployees" text="Employees" onAction="#handleEmployeeButton" prefWidth="180" prefHeight="40"/>
+                     <Button fx:id="btnRestock" text="Restock" onAction="#handleRestockButton" prefWidth="180" prefHeight="40"/>
+                     <Button fx:id="btnMenu" text="Menu" onAction="#handleMenuButton" prefWidth="180" prefHeight="40"/>
+                     <Button fx:id="btnReports" text="Reports" onAction="#handleReportsButton" prefWidth="180" prefHeight="40"/>
+                     <Button fx:id="btnBack" text="Back" onAction="#handleBackToLogin" prefWidth="120" prefHeight="40"/>
+                  </VBox>
+               </children>
+            </AnchorPane>
+
+
+            <!-- MAIN CONTENT AREA -->
+            <AnchorPane fx:id="mainDisplayPane" prefWidth="650.0" style="-fx-background-color: #f8f0d7ff;"/>
+         </items>
+      </SplitPane>
+   </children>
+</VBox>
+
